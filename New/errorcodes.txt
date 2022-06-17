@@ -1,0 +1,25 @@
+Codes relating to account creation.
+---------------------------------------- 
+3060 - Auth token under required level.
+3061 - No username provided.
+3062 - No email provided.
+3063 - No password provided.
+3064 - No level required.
+
+Codes relating to login and Auth.
+---------------------------------------- 
+4060 - Invalid Auth Token.
+4061 - Email / Username already exists.
+4062 - No Function Provided.
+4063 - No Username Provided.
+4064 - No Password Provided.
+4065 - No Password Found.
+4066 - Incorrect Password Provided.
+4067 - No Token Found.
+4068 - Account Inactive.
+
+Codes relating to technical errors.
+---------------------------------------- 
+5060 - Bind Param Failed.
+5061 - No Result Found.
+5062 - Failed to connect to the database.
